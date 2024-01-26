@@ -1,0 +1,4 @@
+# Root Applcation.yml
+
+server:
+  port: 8081
